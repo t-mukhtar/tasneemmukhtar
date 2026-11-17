@@ -1,9 +1,9 @@
-
 <p align="center">
-  <a href="https://github.com/idilhassan">
-    <img src="https://i.postimg.cc/bNDMsqMw/Screenshot-20250803-094118-Gallery.jpg" alt="Tasneem Mukhtar" width="200" height="200" style="border-radius:50%">
+  <a href="https://github.com">
+    <img src="photo.jpg" alt="Tasneem Mukhtar" width="200" />
   </a>
 </p>
+
 
 # Hello, I'm Tasneem Mukhtar 👋
 
