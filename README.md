@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# Hello, I'm Idil Mukhtar 👋
+# Hello, I'm Tasneem Mukhtar 👋
 
 I am an aspiring Data Analyst with a strong foundation in SQL, Excel, and Power BI. I am passionate about using data to uncover insights and drive better business decisions. I enjoy transforming raw data into meaningful visualizations and stories that are easy to understand.
 
